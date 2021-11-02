@@ -1,0 +1,8 @@
+*.log
+*.exe
+bin/
+obj/
+*.depend
+*.layout
+*.cscope_file_list
+
